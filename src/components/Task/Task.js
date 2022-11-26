@@ -1,4 +1,4 @@
-﻿import { MdClose } from 'react-icons/md';
+import { MdClose } from 'react-icons/md';
 import css from './Task.module.css';
 // Імпортуємо хук
 import { useDispatch } from 'react-redux';

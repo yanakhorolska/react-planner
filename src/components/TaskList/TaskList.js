@@ -1,4 +1,4 @@
-﻿import { Task } from 'components/Task/Task';
+import { Task } from 'components/Task/Task';
 // Імпортуємо хук
 import { useSelector } from 'react-redux';
 import css from './TaskList.module.css';

@@ -1,4 +1,4 @@
-﻿import { Button } from 'components/Button/Button';
+import { Button } from 'components/Button/Button';
 import css from './StatusFilter.module.css';
 // Імпортуємо хук
 import { useSelector, useDispatch } from 'react-redux';

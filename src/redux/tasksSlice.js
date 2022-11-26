@@ -1,4 +1,4 @@
-﻿import { createSlice, nanoid } from '@reduxjs/toolkit';
+import { createSlice, nanoid } from '@reduxjs/toolkit';
 
 const tasksInitialState = [
   { id: 0, text: 'Learn HTML and CSS', completed: true },
